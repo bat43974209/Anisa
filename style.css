@@ -1,0 +1,60 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+   background-color:#ee6565;
+   padding: 5px;
+}
+
+h1 {
+  text-align: center;
+  color:#eb0808 ;
+}
+
+footer p{
+    background-color: rgb(240, 87, 87);
+}
+
+footer b {
+  margin:30px;
+}
+
+nav a{
+  margin:20px;
+  font-size:20px;
+  text-decoration:none;
+  color: white;
+  border:3px solid navy;
+  border-radius:10px;
+  background-color:navy;
+  
+}
+
+.popylar {
+    background-color:white;
+    color: royalblue;
+}
+
+.fon_img {
+    background-color:rgb(41, 172, 74) ;
+    padding:10px;
+}
+
+
+main {
+  margin:20px;
+  padding:20px;
+  font-size:20px;
+}
+
+
+h2{
+  color:blue;
+}
+
+.cnopca{
+  border:1px solid navy;
+  text-decoration:none;
+  padding:5px;
+}
